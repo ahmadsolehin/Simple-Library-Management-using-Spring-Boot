@@ -1,0 +1,13 @@
+com/ahmadsolehin/repository/AuthorRepository.class
+com/ahmadsolehin/service/BookService.class
+com/ahmadsolehin/service/BookServiceImpl.class
+com/ahmadsolehin/models/Book.class
+com/ahmadsolehin/controllers/AuthorRestController.class
+com/ahmadsolehin/SimpleLibraryAutomationApplication.class
+com/ahmadsolehin/models/Author.class
+com/ahmadsolehin/controllers/BookRestController.class
+com/ahmadsolehin/service/AuthorServiceImpl.class
+com/ahmadsolehin/service/AuthorService.class
+com/ahmadsolehin/controllers/AuthorController.class
+com/ahmadsolehin/repository/BookRepository.class
+com/ahmadsolehin/controllers/BookController.class
